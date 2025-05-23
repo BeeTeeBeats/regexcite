@@ -1,5 +1,5 @@
 Package: regexcite
-Title: What the Package Does (One Line, Title Case)
+Title: A simple string-editing package used to learn the process of package creation.
 Version: 0.0.0.9000
 Authors@R: 
     person("Alex", "Brown", , "alexbrownbass@gmail.com", role = c("aut", "cre"))
